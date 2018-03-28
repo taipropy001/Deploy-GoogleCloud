@@ -1,0 +1,78 @@
+ul.lst-kix_list_1-0{list-style-type:none}
+.lst-kix_list_1-0>li:before{content:"-  "}
+ul.lst-kix_list_2-0{list-style-type:none}
+.lst-kix_list_2-0>li:before{content:"+  "}
+.c1{margin-left:19.9pt;padding-top:3pt;padding-left:0pt;padding-bottom:3pt;line-height:1.0;orphans:2;widows:2;text-align:justify;font-size:15pt}
+.c6{margin-left:36pt;padding-top:0pt;padding-left:0pt;padding-bottom:6pt;line-height:1.0;orphans:2;widows:2;text-align:left}
+.c10{margin-left:36pt;padding-top:0pt;padding-left:0pt;padding-bottom:0pt;line-height:1.0;orphans:2;widows:2;text-align:left}
+.c0{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:"Times New Roman";font-style:normal}
+.c13{padding-top:3pt;padding-bottom:3pt;line-height:1.0;orphans:2;font-size:18pt;widows:2;text-align:justify}
+.c17{padding-top:0pt;padding-bottom:0pt;line-height:1.0;orphans:2;widows:2;text-align:justify;font-size:16pt}
+.c3{padding:0;margin:0}
+.c7{font-style:italic}
+.c2{font-weight:700}
+p{margin:0;color:#000000;font-size:12pt;font-family:"Times New Roman"}
+
+	background: #e5e4d7;
+	margin: 10px;
+	padding: 20px;
+	float: right;
+	padding-bottom: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+	width: 260px;
+	border-radius: 5px;
+}
+.sideright{
+	clear: both;
+    float: left;
+    /*margin-top:50px;*/
+    background: #fff;
+    padding-bottom: 15px;
+    width: 300px;
+    margin-right: 10px;
+}
+.sideLabel {
+	background: url(https://drive.google.com/uc?id=1yAXJWgFFce0R0GYbGIWTf8nT-z2Am9Hw) no-repeat;
+	width: 312px;
+    height: 67px;
+    margin-right: 10px;
+}
+.sideLabel h2{
+	float: left;
+        font: 22px Arial, Helvetica, sans-serif;
+        color: #fff;
+        margin-left: 40px;
+        margin-top: 10px;
+        width: 250px;
+}
+.sideLabel img {
+	float: right;
+ 	margin-top: 22px;
+}
+.sideInformation {
+     margin-left: 10px;
+    margin-right: 10px;
+}
+
+    .sideInformation ul li {
+        padding-top: 5px;
+        border-bottom: 1px dashed #d0d0d0;
+        padding-bottom: 5px;
+    }
+
+        .sideInformation ul li a {
+            font: 13px Arial, Helvetica, sans-serif;
+            color: #212121;
+            line-height: 18px;
+        }
+
+            .sideInformation ul li a:hover {
+                color: #ff0000;
+            }
+
+            .sideInformation ul li a span {
+                color: #046fac;
+                font: 12px;
+            }
+            
